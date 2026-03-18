@@ -1,0 +1,27 @@
+/* .Add-bag{
+  font-style: bold;
+  color: black;
+  background-color: lightgreen;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+}
+.wish-list{
+   padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+
+} */
+.tbutton{
+  font-size: 30px;
+  color: black;
+  background-color: greenyellow;
+  border: none;
+  border-radius: 15px;
+}
